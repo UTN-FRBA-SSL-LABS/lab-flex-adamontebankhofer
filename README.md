@@ -35,6 +35,7 @@ Para ejecutarlo con un archivo de entrada:
 
 ### Verificación local
 
+
 Antes de hacer push, verificá tu puntaje con:
 
 ```bash
